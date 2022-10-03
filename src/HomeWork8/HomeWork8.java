@@ -1,8 +1,9 @@
 package HomeWork8;
-/* Java Basic . Homework # 8.
+/*
+@ HomeWork 8
 @ autor Iurii Kravets.
-@ todo 21.09.2022
-@ date 25.09.2022
+@ todo 28.09.2022
+@ date 3.10.2022
 */
 public class HomeWork8 {
     public static void main(String[] args) {
