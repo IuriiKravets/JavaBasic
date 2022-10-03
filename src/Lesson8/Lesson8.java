@@ -1,5 +1,9 @@
 package Lesson8;
-
+/* Java Basic . Homework # 7.
+ @ autor Iurii Kravets.
+ @ todo 26.09.2022
+ @ date 28.09.2022
+*/
 public class Lesson8 {
     public static void main(String[] args) {
         Cat cat = new Cat("Barsik","red",2);
