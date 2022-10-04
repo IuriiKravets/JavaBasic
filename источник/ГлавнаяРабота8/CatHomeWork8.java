@@ -1,5 +1,10 @@
 package HomeWork8;
-
+/*
+@ HomeWork 8
+@ autor Iurii Kravets.
+@ todo 28.09.2022
+@ date 3.10.2022
+*/
 class Cat{
     String name;
     String color;
