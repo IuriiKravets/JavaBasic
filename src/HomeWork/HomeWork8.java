@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork8;
 /*
 @ HomeWork 8
 @ autor Iurii Kravets.
