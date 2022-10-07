@@ -17,8 +17,7 @@ class Cat{
         this.color = color;
         this.age = age;
         this.jumpMax = jumpMax;
-        this.full = false;
-
+        this.full = false ;
         }
 
         public String voice() {
